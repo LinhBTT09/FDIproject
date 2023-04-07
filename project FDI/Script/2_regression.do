@@ -7,7 +7,7 @@ clear
 set more off
 
 /* path for the input */
-               if c(username) == "phandangduyanh" {
+               if c(username) == "buithithuylinh" {
 
                                cd "D:\Linh\project FDI\Output"
 
@@ -15,7 +15,7 @@ set more off
                }       
 			   * output
 
-               if c(username) == "phandangduyanh" {
+               if c(username) == "buithithuylinh" {
 
                                global outputdata "D:\Linh\project FDI\Output\regression"
 
